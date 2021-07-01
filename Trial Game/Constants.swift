@@ -2,7 +2,7 @@
 //  Constants.swift
 //  Trial Game
 //
-//  Created by Shehzaad Daureeawoo on 6/29/21.
+//  Created by shehzaad777 on 6/29/21.
 //
 
 import Foundation

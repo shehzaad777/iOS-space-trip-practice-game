@@ -2,7 +2,7 @@
 //  GameScene.swift
 //  Trial Game
 //
-//  Created by Shehzaad Daureeawoo on 6/27/21.
+//  Created by shehzaad777 on 6/27/21.
 //
 
 import SpriteKit
